@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Get Me A Chai<br><br>🌱 I’m currently learning Nextjs, Nodejs<br><br>💬 Ask me about React, Expressjs<br><br>📫 How to reach me ramishbinsiddique24@gmail.com<br><br>⚡ Fun factDid you know? 🌐 There are over 1.7 billion websites, but less than 200 million are active. So if your site goes down, just call it "exclusive"! 😉💻
+🔭 I’m currently working on Get Me A Chai<br><br>🌱 I’m currently learning Backend Development, Nodejs<br><br>💬 Ask me about React, Nextjs, Expressjs<br><br>📫 How to reach me ramishbinsiddique24@gmail.com<br><br>⚡ Did you know? 🌐 There are over 1.7 billion websites, but less than 200 million are active. So if your site goes down, just call it "exclusive"! 😉💻
 
 
 ## 🌐 Socials:
